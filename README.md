@@ -87,7 +87,7 @@ A robust Terminal User Interface (TUI) for setting up and managing Core testnet 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harystyleseze/core-testnet-validator-node-installer.git
+   git clone https://github.com/coredao-org/core-validator-tui.git
    cd core-testnet-validator-node-installer/core-node-installer
    ```
 
@@ -207,4 +207,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For issues and feature requests, please use the GitHub issue tracker.
+For issues and feature requests, please use the GitHub issue trackerm, reach out to us on [Core Discord Server](https://discord.gg/4TDAtjW8) or [Core Developer Forum](https://forum.coredao.org/).
