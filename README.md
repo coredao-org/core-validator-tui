@@ -1,4 +1,5 @@
-# Core Validator Node Tool: TUI Tool for Setting up Testnet Validator Node
+# Core Validator Node Tool
+## TUI Tool for Setting up Testnet Validator Node
 ![Homepage](./asset/homepage.png)
 
 A robust Terminal User Interface (TUI) for setting up and managing Core testnet validator nodes. This installer provides an intuitive, dialog-based interface that simplifies the entire process from initial setup to ongoing maintenance.
